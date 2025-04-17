@@ -1,5 +1,6 @@
 import './App.css'
 
+const publicUrl = '/xyz'
 export default function App() {
   return (
     <main>
